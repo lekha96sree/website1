@@ -14,12 +14,12 @@ Hyperlinks look like [Github Help](https://help.github.com).
 
 Bullet list:
 
--cats
--dogs
--muffins
+- cats
+- dogs
+- muffins
 
 Numbered list
 
-1.One
-2.Two
-3.Three
+1. One
+2. Two
+3. Three
